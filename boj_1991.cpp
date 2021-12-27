@@ -41,7 +41,7 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    freopen("input.txt", "r", stdin);
+    // freopen("input.txt", "r", stdin);
 
     //init
     for(int i = 0; i<26; i++)
