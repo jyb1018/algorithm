@@ -25,7 +25,7 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    freopen("input.txt", "r", stdin);
+    // freopen("input.txt", "r", stdin);
 
     long long A, B;
     cin >> A >> B;
