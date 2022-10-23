@@ -7,3 +7,7 @@
 
 # Unignore all dirs
 !*/
+
+# ignore a.out and input.txt
+a.out
+input.txt
